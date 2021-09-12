@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Black Window</string>
+    <string name="get_error_401">Chave de API inválida: você deve inserir uma chave válida.</string>
+    <string name="get_error_404">O filme solicitado não foi encontrado.</string>
+    <string name="error_connection">Verifique sua conexão com a internet</string>
+    <string name="likes">Likes</string>
+    <string name="views">Views</string>
+    <string name="set_description_image_movie">Capa do filme em destaque</string>
+    <string name="set_description_image_like">Imagem simbolizando a quantidade de likes</string>
+    <string name="set_description_image_views">Imagem simbolizando a quantidade de views do filme</string>
+    <string name="set_description_image_similar_movie">Capa dos filmes relacionados</string>
 </resources>
