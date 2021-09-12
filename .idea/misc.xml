@@ -9,6 +9,7 @@
         <entry key="app/src/main/res/drawable/ic_video.xml" value="0.1890625" />
         <entry key="app/src/main/res/drawable/transparent_background.xml" value="0.1890625" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/movies_list.xml" value="0.1" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1890625" />
       </map>
     </option>
