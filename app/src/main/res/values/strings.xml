@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Black Window</string>
+    <string name="app_name">Black Widow</string>
     <string name="get_error_401">Chave de API inválida: você deve inserir uma chave válida.</string>
     <string name="get_error_404">O filme solicitado não foi encontrado.</string>
     <string name="error_connection">Verifique sua conexão com a internet</string>
