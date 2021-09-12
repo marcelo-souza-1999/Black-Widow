@@ -41,3 +41,6 @@ Fortifiquei meus conhecimentos em Kotlin e MVVM com esse projeto, que por mais q
 tentei ao máximo fazer o app se enquadrar e seguir as guidelines do MVVM e do Clean Code.
 Abraços!
 
+## Proximos passos 
+Inserir no aplicativo a tela com todos os filmes e ao clicar em algum exibe o mesmo, com suas informações e uma lista de filmes similares.
+
