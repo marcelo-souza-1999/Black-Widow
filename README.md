@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido a partir de um teste técnico da empresa [Mobile2you](https://www.mobile2you.com.br/pt/). 
 Teve como proposta replicar o layout da activity de detalhes de filmes do app TodoMovies4. 
-E os dados do filme deveriam ser obtidos da API [The Movie DB](https://api.themoviedo.org/3) alguns endpoints apenas.
+E os dados do filme deveriam ser obtidos da API The Movie DB alguns endpoints apenas.
 
 ## Os endpoinst utilizados nesse aplicativo foram:
 
